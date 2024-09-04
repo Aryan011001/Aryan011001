@@ -12,6 +12,7 @@
   </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan011001&label=Profile%20views&color=0e75b6&style=flat" alt="aryan011001" /> </p>
  
 
   - 🌱 I’m currently learning **next.js**
