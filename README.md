@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <a href="https://www.edisonlee55.com"><img src="happy-boi-hinata.gif" alt="Banner"></a>
 </p>
 <h1 align="center">Hi 👋, I'm Aryan Ranjan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
