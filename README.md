@@ -1,25 +1,29 @@
-<p align="center">
-  <img src="happy-boi-hinata.gif" alt="Banner" width="200">
-</p>
 <h1 align="center">Hi 👋, I'm Aryan Ranjan</h1>
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan011001&label=Profile%20views&color=0e75b6&style=flat" alt="aryan011001" /> </p>
+<div style="flex">
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    </a>
+  </p>
+    <img align="right" alt="coding" width="200" src="happy-boi-hinata.gif" style="padding-bottom: 20px;">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan011001" alt="aryan011001" /></a> </p>
+  <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=aryan011001&label=Profile%20views&color=0e75b6&style=flat" alt="aryan011001" /> 
+  </p>
 
-- 🌱 I’m currently learning **next.js**
+  - 🌱 I’m currently learning **next.js**
+  
+  - 💬 Ask me about **react, OOPS, DBMS, DSA**
+  
+  - ⚡ Fun fact **I think I am funny**
 
-- 💬 Ask me about **react, OOPS, DBMS, DSA**
-
-- ⚡ Fun fact **I think I am funny**
-
-
-
+    <p align="left"> 
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=aryan011001" alt="aryan011001" />
+      </a> 
+    </p>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
