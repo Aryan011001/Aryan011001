@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.edisonlee55.com"><img src="happy-boi-hinata.gif" alt="Banner" width="180"></a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Aryan Ranjan</h1>
 
 <div style="flex">
@@ -6,11 +10,9 @@
       <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
     </a>
   </p>
-    <img align="right" alt="coding" width="200" src="happy-boi-hinata.gif" style="padding-bottom: 20px;">
 
-  <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=aryan011001&label=Profile%20views&color=0e75b6&style=flat" alt="aryan011001" /> 
-  </p>
+
+ 
 
   - 🌱 I’m currently learning **next.js**
   
