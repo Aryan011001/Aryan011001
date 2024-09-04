@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="happy-boi-hinata.gif" alt="Banner" width="300">
+  <img src="happy-boi-hinata.gif" alt="Banner" width="200">
 </p>
 <h1 align="center">Hi 👋, I'm Aryan Ranjan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan011001&label=Profile%20views&color=0e75b6&style=flat" alt="aryan011001" /> </p>
 
@@ -13,6 +17,10 @@
 - 💬 Ask me about **react, OOPS, DBMS, DSA**
 
 - ⚡ Fun fact **I think I am funny**
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,3 +44,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan011001&show_icons=true&locale=en" alt="aryan011001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan011001&" alt="aryan011001" /></p>
+
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Aryan011001/ConnectSphere" title="ConnectSphere"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan011001&repo=ConnectSphere&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Aryan011001/WhisperNet" title="WhisperNet"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan011001&repo=WhisperNet&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Aryan011001?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
