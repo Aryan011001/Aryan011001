@@ -67,5 +67,7 @@
 </h4>
 
 
-![snake gif](https://github.com/Aryan011001/Aryan011001/blob/output/github-contribution-grid-snake.gif)
 
+<!--
+![snake gif](https://github.com/Aryan011001/Aryan011001/blob/output/github-contribution-grid-snake.gif)
+-->
